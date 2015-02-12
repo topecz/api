@@ -4,7 +4,10 @@
     "fileSize": 106737,
     "fileHash": "39af08bbc09bc6faced5a00a2c0681958c00cc2ee0379ee2f82c27b6acbdc83c",
 
-    "authors": "Luis Iván Cuende,Nyancat",
+    "authors": [
+      "Luis Iván Cuende",
+      "Nyancat"
+    ],
     "authorsHash": "b7728ff26bf891cf212490549cf1ce7d2d79bdf409d4d2de2923748a54987839",
 
     "hash": "ba6b3f7ec967dac687833855c7b2eaf30cbd0e8afc65cdbd2fbf4e52dc1e87fb",
