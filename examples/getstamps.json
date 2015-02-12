@@ -1,0 +1,29 @@
+{
+  "err": null,
+  "stamps": [
+    {
+      "fileName": "btc.png",
+      "fileSize": 106737,
+      "fileHash": "39af08bbc09bc6faced5a00a2c0681958c00cc2ee0379ee2f82c27b6acbdc83c",
+
+      "authors": "Luis Iván Cuende,Nyancat",
+      "authorsHash": "b7728ff26bf891cf212490549cf1ce7d2d79bdf409d4d2de2923748a54987839",
+
+      "hash": "ba6b3f7ec967dac687833855c7b2eaf30cbd0e8afc65cdbd2fbf4e52dc1e87fb",
+      "txid": "7f3d624486d66709f37a1eb84838509a07d41718e9d2a2cd30a29ba8b6ef891e",
+      "date": "2015-02-09T18:07:41.908Z"
+    },
+    {
+      "fileName": "Shwann - The Surge ft. Timmo Hendriks.mp3",
+      "fileSize": 14510925,
+      "fileHash": "c6174a481d8b6fb92fba538862bc8e96896c132be27ba4fdaa2a246fb8f0996f",
+
+      "authors": "Timmo Hendriks",
+      "authorsHash": "ef7c587bcb5e22733f416cdf56e4962188dd68edbef8c0572f30977f3042754f",
+
+      "hash": "3a3ca89522d1c8423927cdc904f3549d25dbea6b3107de862cc3d1e3bcf6e0c0",
+      "txid": "28a0de65ec8094139221cbd557b917e3283ba71602ffa2e75f3e5fa62e226413",
+      "date": "2015-02-11T15:00:28.860Z",
+    }
+  ]
+}
