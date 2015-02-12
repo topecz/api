@@ -17,18 +17,18 @@
       "date": "2015-02-09T18:07:41.908Z"
     },
     {
-      "fileName": "Shwann - The Surge ft. Timmo Hendriks.mp3",
-      "fileSize": 14510925,
-      "fileHash": "c6174a481d8b6fb92fba538862bc8e96896c132be27ba4fdaa2a246fb8f0996f",
+      "fileName": "Book.zip",
+      "fileSize":514534,
+      "fileHash":"e936b1cd7c5bd34c215cc4671965a2f9053098da8faf432e946a07b3d238fb7c",
 
       "authors": [
-        "Timmo Hendriks"
+        "Luis Iván Cuende"
       ],
-      "authorsHash": "ef7c587bcb5e22733f416cdf56e4962188dd68edbef8c0572f30977f3042754f",
+      "authorsHash":"2e293d09cde8da6311b739ef2d6ffa389db871de0eb90e8ef5bdd268a833dc8a",
 
-      "hash": "3a3ca89522d1c8423927cdc904f3549d25dbea6b3107de862cc3d1e3bcf6e0c0",
-      "txid": "28a0de65ec8094139221cbd557b917e3283ba71602ffa2e75f3e5fa62e226413",
-      "date": "2015-02-11T15:00:28.860Z",
+      "hash":"deb027dcbbb69651d37e82d99fe08641f22f1182e1422bf3b58e0334f0acb25f",
+      "txid":"f1387ef39f4ba0034bc5b8191af41e5d0da74c20ef1b3265b2f4e72ba5753a8d",
+      "date":"2015-02-12T13:57:20.444Z"
     }
   ]
 }
