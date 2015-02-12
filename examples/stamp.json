@@ -1,14 +1,14 @@
 {
   "stamp": {
-    fileName: "btc.png",
-    fileSize: 106737,
-    fileHash: "39af08bbc09bc6faced5a00a2c0681958c00cc2ee0379ee2f82c27b6acbdc83c",
+    "fileName": "btc.png",
+    "fileSize": 106737,
+    "fileHash": "39af08bbc09bc6faced5a00a2c0681958c00cc2ee0379ee2f82c27b6acbdc83c",
 
-    authors: "Luis Iván Cuende,Nyancat",
-    authorsHash: "b7728ff26bf891cf212490549cf1ce7d2d79bdf409d4d2de2923748a54987839",
+    "authors": "Luis Iván Cuende,Nyancat",
+    "authorsHash": "b7728ff26bf891cf212490549cf1ce7d2d79bdf409d4d2de2923748a54987839",
 
-    hash: "ba6b3f7ec967dac687833855c7b2eaf30cbd0e8afc65cdbd2fbf4e52dc1e87fb",
-    txid: "7f3d624486d66709f37a1eb84838509a07d41718e9d2a2cd30a29ba8b6ef891e",
-    date: "2015-02-09T18:07:41.908Z"
+    "hash": "ba6b3f7ec967dac687833855c7b2eaf30cbd0e8afc65cdbd2fbf4e52dc1e87fb",
+    "txid": "7f3d624486d66709f37a1eb84838509a07d41718e9d2a2cd30a29ba8b6ef891e",
+    "date": "2015-02-09T18:07:41.908Z"
   }
 }
